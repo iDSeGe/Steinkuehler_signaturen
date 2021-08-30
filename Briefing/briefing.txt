@@ -1,3 +1,8 @@
+TASK: https://projects.zoho.com/portal/identitaetsverstaerker#taskdetail/1354133000002980767/1354133000002980785/1354133000004417035
+Banner-URL:
+
+
+
 Für alle Mitarbeiter:
 > Handelsregister Köln (nicht Leverkusen)
 > Handelsregister Köln HRA 35176
@@ -15,3 +20,5 @@ zusätzlich bitte den Google-Bewertungen-Banner (s.o.) für folgende MAs integri
 > Martin Steinkühler
 > Liesel Steinkühler
 > Melanie Bischoff
+
+
