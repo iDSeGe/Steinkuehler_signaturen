@@ -10,6 +10,8 @@ Für alle Mitarbeiter:
 > Allgemeine Geschäftsbedingungen: Steinkühler AGBs [bitte als Link darstellen]
 > Geschäftsführung: Martin Steinkühler, Lucas Steinkühler [Lucas mit C]
 > Google Bewertungsbanner bitte integrieren
+> Social-Links überprüfen
+> Schriftgrößen prüfen
 
 Für die Büroangestellten:
 zusätzlich bitte den Google-Bewertungen-Banner (s.o.) für folgende MAs integrieren:
